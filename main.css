@@ -17,6 +17,10 @@ p{
 	text-align: center;
 }
 
+a{
+	text-decoration: none;
+}
+
 .button{
 	display:inline-block;
 	width:100px;
@@ -26,7 +30,7 @@ p{
 	color:#fff;
 	line-height:100px;
 	text-align:center;
-	text-decoration: none;
+	
 	background:#000
 }
 div{
