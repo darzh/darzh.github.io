@@ -1,21 +1,24 @@
 h1 {
-	color: black;
+	color: white;
 	font-size: 70px;
-	background-color: white;
+	background-color: black;
 	opacity:0.7;
 	text-align: center;
+	border: 7px solid white;
+	border-radius: 20px;
 }
 body{	
 	background: url("images/background.JPG");
+	font-family: georgia;
 }
 p{
-	color: white;
+	color: purple;
 	font-size: 35px;
 	text-align: center;
 }
 
 .button{
-	display:block;
+	display:inline-block;
 	width:100px;
 	height:100px;
 	border-radius:50px;
@@ -23,9 +26,10 @@ p{
 	color:#fff;
 	line-height:100px;
 	text-align:center;
+	text-decoration: none;
 	background:#000
 }
 div{
-	display: inline;
 	text-align: center;
+	padding: 10px;
 }
