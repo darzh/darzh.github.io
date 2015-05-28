@@ -2,10 +2,12 @@ h1 {
 	color: white;
 	font-size: 70px;
 	background-color: black;
-	opacity:0.7;
+	opacity:0.9;
 	text-align: center;
 	border: 7px solid white;
 	border-radius: 20px;
+	margin-right: 10%;
+	margin-left: 10%;
 }
 body{	
 	background: url("images/background.JPG");
@@ -15,6 +17,7 @@ p{
 	color: purple;
 	font-size: 35px;
 	text-align: center;
+	text-shadow: 2px 1px #000000;
 }
 
 a{
